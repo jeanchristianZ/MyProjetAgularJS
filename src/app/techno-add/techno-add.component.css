@@ -1,0 +1,12 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+ .Inscription{
+    width: 50%;
+    text-align: center;
+    margin-left: 30%;
+}
+.titre{
+    font-family: sans-serif;
+    font-size: 20px;
+}

@@ -1,0 +1,10 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    margin-left: 1%;
+}
+#navbarNavDropdown{
+    margin-left: 20%;
+}
